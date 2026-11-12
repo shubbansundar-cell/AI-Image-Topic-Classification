@@ -1,0 +1,31 @@
+Vaasav Duharia(2330053) – Dataset Collection & Image Preprocessing
+
+- Collect images for all five categories.
+- Organize the dataset into folders.
+- Resize and normalize images.
+- Perform image preprocessing and augmentation.
+- Split data into training and testing sets.
+
+Kashish Bishnoi(2304025) – Machine Learning Model Development
+
+- Implement the image classification model.
+- Work with CNN, Efficient Net or ViT.
+- Train and test the model.
+- Classify images into five categories.
+- Evaluate model accuracy and generate a confusion matrix.
+
+Abhyudaya Mishra(2330059) – NLP & Text Generation
+
+- Generate five keywords related to the predicted category.
+- Generate a short descriptive paragraph about the profession.
+- Implement text generation using T5 or another suitable method.
+- Integrate classification results with text generation.
+- Test generated descriptions.
+
+Shubban Sundar(2330268) – Integration, UI & Documentation
+
+- Integrate the classification and text generation modules.
+- Display predicted categories, keywords and descriptions.
+- Test the complete application.
+- Maintain the GitHub repository.
+- Prepare the project report, PPT and demonstration video.
